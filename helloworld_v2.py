@@ -1,5 +1,5 @@
 print('Hello, Brendan')
-'dog hair'
+#dog hair
 print('o----')
 print(' ||||')
-print('*' * 10) 'star times 10, will print 10 times, an expression'
+print('*' * 10) #star times 10, will print 10 times, an expression
